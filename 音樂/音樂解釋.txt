@@ -1,0 +1,6 @@
+min_boss 四天王
+menu 主畫面
+menu_bg 主畫面背景音 目前決定不需要用 但還是先留著
+theme 主題曲 尚未確定用在哪
+battle_1 新手村和邊境平原
+battle_2 魔物領地 暗夜迴廊

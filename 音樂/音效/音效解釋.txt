@@ -1,0 +1,16 @@
+lose 戰鬥輸掉
+win 戰鬥贏
+atk_small 戰士弱傷害牌
+atk_big 戰士強傷害牌
+bloodwar 血戰
+freeze 冰凍
+regen 回血回魔
+poison 毒
+draw 抽牌
+bomb 炸彈
+shell 硬殼
+spell 禁咒
+erosion 魔力侵蝕
+mouse_contact 滑鼠碰觸
+mouse_choose 滑鼠選擇
+
