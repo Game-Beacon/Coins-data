@@ -2,7 +2,10 @@ lose 戰鬥輸掉
 win 戰鬥贏
 atk_small 戰士弱傷害牌
 atk_big 戰士強傷害牌
+matk_small 法師弱傷害牌
+matk_big 法師強傷害牌
 bloodwar 血戰
+burn 灼傷
 freeze 冰凍
 regen 回血回魔
 poison 毒
@@ -11,6 +14,10 @@ bomb 炸彈
 shell 硬殼
 spell 禁咒
 erosion 魔力侵蝕
-mouse_contact 滑鼠碰觸
-mouse_choose 滑鼠選擇
+uneffect 強盜和無效牌效果(觸發時才有的聲音 未確定)
+
+mouse_contact 滑鼠碰觸 戰鬥內是碰到牌以外的東西(未確定)
+mouse_choose 戰鬥外滑鼠選擇
+mouse_card 戰鬥中滑鼠碰到牌
+
 
